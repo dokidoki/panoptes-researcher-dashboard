@@ -1,0 +1,11 @@
+Looking at the specification initially, I feel I will keep everything pretty framework light and stick to the general 
+MEAN stack for development as we are already using Node for the backend. 
+
+I think D3.js will work well for the live visualisations.
+
+In the future when we expand to phase two I would lean towards Firebase if we want some more complicated login functionality 
+like Auth 2.0 or anonymous authentication. I have already developed frontend pages for email verification and password reset
+which we could integrate. Firebase is also very scalable because it’s built on the Google Cloud SDK which I why I use it for 
+my mobile application's user login.
+
+Travis Ralph-Donaldson
